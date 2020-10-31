@@ -1,3 +1,6 @@
-# Ejemplo_chat
+# Actividad chat cliente servidor 
+
 Chat utilizando Node.js y Socket.io
-Integreante 1
+
+Integrantes 
+-Heydi Estrada
