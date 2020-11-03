@@ -4,3 +4,6 @@ Chat utilizando Node.js y Socket.io
 
 Integrantes 
 -Heydi Estrada
+-Jorge Zapata
+-
+-
